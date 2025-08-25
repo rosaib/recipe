@@ -1,3 +1,3 @@
-#recipe
+# Guacamole recipe
 
-This is an exercive repository. 
+This is an exercive repository
